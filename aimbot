@@ -517,12 +517,12 @@ game:GetService("RunService").Heartbeat:Connect(
             )
             wait(1)
             game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(
-                ".gg/yun👑👑",
+                "Ez Kid",
                 "All"
             )
             wait(1)
             game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(
-                "get tapped🦜🦜",
+                "get slaapped🦜🦜",
                 "All"
             )
             wait(1)
